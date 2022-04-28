@@ -1,1 +1,4 @@
-# java-example
+# Java Example Collection
+
+- lombok
+- thrift
